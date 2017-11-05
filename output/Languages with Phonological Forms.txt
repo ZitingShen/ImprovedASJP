@@ -1,0 +1,56 @@
+Language: Number of words with phonological forms
+
+Ancient Greek: 283
+Armenian Eastern: 236
+Assamese: 174
+Belarusian: 218
+Bihari: 207
+Breton: 170
+Bulgarian: 217
+Catalan: 248
+Classical Armenian: 251
+Czech: 223
+Danish: 259
+Danish Fjolde: 236
+Dutch: 257
+Elfdalian: 239
+English: 203
+Faroese: 313
+French: 210
+Frisian: 185
+German: 216
+Greek: 243
+Gutnish Lau: 261
+Icelandic: 297
+Irish: 108
+Italian: 227
+Latin: 241
+Macedonian: 216
+Magahi: 225
+Marathi: 237
+Marwari: 111
+Middle Breton: 240
+Middle Cornish: 224
+Norwegian Riksmal: 283
+Old Church Slavonic: 228
+Old Irish: 311
+Old Norse: 328
+Old Swedish: 296
+Oriya: 287
+Ossetic: 186
+Ossetic Digor: 201
+Ossetic Iron: 200
+Polish: 223
+Portuguese: 220
+Romanian: 115
+Russian: 213
+Serbo-Croatian: 224
+Slovak: 229
+Slovenian: 212
+Sorbian Lower: 220
+Sorbian Upper: 218
+Spanish: 218
+Stavangersk: 255
+Swedish: 295
+Ukrainian: 223
+Urdu: 220

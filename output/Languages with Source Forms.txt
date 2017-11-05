@@ -1,0 +1,128 @@
+Language: Number of words with orthographical forms
+
+Afrikaans: 233
+Albanian: 215
+Albanian Corinth: 204
+Albanian Gheg: 217
+Albanian Sicily: 192
+Albanian Tosk: 221
+Ancient Greek: 283
+Armenian Eastern: 317
+Armenian Western: 215
+Askunu: 108
+Assamese: 292
+Avestan: 212
+Baluchi: 212
+Belarusian: 218
+Bengali: 230
+Bihari: 274
+Breton: 288
+Bulgarian: 217
+Catalan: 302
+Classical Armenian: 307
+Czech: 223
+Danish: 264
+Danish Fjolde: 237
+Dolomite Ladino: 235
+Dutch: 266
+Elfdalian: 277
+English: 210
+Faroese: 322
+Flemish: 217
+French: 210
+French Creole Dominica: 196
+Frisian: 229
+Friulian: 263
+Gaulish: 105
+German: 220
+German Switzerland: 207
+Gothic: 240
+Greek: 272
+Greek Lesbos: 199
+Gujarati: 219
+Gutnish Lau: 264
+Hindi: 234
+Hittite: 198
+Icelandic: 302
+Irish: 313
+Italian: 228
+Kashmiri: 245
+Kata-viri: 108
+Khaskura: 224
+Kurdish: 136
+Ladin: 222
+Lahnda: 202
+Latin: 242
+Latvian: 248
+Lithuanian: 244
+Luvian: 108
+Luxembourgish: 219
+Macedonian: 216
+Magahi: 225
+Manx: 118
+Marathi: 277
+Marwari: 260
+Middle Breton: 241
+Middle Cornish: 348
+Nepali: 269
+Norwegian Riksmal: 292
+Old Church Slavonic: 228
+Old English: 248
+Old Gutnish: 144
+Old High German: 267
+Old Irish: 312
+Old Norse: 339
+Old Prussian: 184
+Old Swedish: 297
+Oriya: 288
+Ossetic: 230
+Ossetic Digor: 202
+Ossetic Iron: 200
+Pashto: 218
+Pennsylvania Dutch: 192
+Persian: 213
+Polish: 223
+Portuguese: 269
+Proto-Indo-European: 192
+Provencal: 264
+Punjabi: 212
+Pāḷī: 213
+Romani Greece: 200
+Romanian: 261
+Romansh: 269
+Russian: 213
+Sardinian Cagliari: 199
+Sardinian Logudoro: 200
+Sardinian Nuoro: 198
+Sarikoli: 220
+Scottish Gaelic: 275
+Serbo-Croatian: 224
+Shughni: 276
+Sindhi: 251
+Sinhalese: 228
+Slovak: 229
+Slovenian: 212
+Sogdian: 183
+Sorbian Lower: 220
+Sorbian Upper: 218
+Spanish: 249
+Sranan: 213
+Standard Albanian: 210
+Stavangersk: 255
+Swedish: 304
+Swedish Uppland: 227
+Swedish Vilhelmina: 216
+Tajik: 260
+Tocharian A: 179
+Tocharian B: 215
+Tsakonian: 109
+Ukrainian: 223
+Urdu: 220
+Vasi-vari: 107
+Vedic Sanskrit: 295
+Vlach: 186
+Wakhi: 223
+Walloon: 213
+Waziri: 222
+Welsh: 266
+Zazaki: 215
