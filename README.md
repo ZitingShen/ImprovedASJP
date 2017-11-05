@@ -1,6 +1,6 @@
 #Improved ASJP
 
-Computational Model for Language Family Homeland Identification
+Senior Thesis: Computational Model for Language Family Homeland Identification
 
 The main purpose of this thesis is to examine possible improvements of the ASJP model, a computational model used for language family homeland identification. Historically, the homeland of a language family can be hypothesized with the linguistic comparative method, which requires considerable time, labor, and linguistic expertise. In that case, computational models are proposed as a complement for the linguistic approach to provide relatively objective, perspicacious results using a limited amount of raw data.
 
@@ -10,4 +10,4 @@ This thesis is aimed at modifying the oversimplistic methodology of the original
 
 The modified computational model will be implemented in python and tested on the well-studied Indo-European family. The results will be compared to the two major theories about the Proto-Indo-European homeland, the Steppe Theory and the Anatolian Hypothesis. The data is from Indo-European Lexical Cognacy Database (Dunn), which is consisted of 200-word Swadesh lists of more than 100 Indo-European languages.
 
-	As a joint thesis between linguistics and computer science, this thesis will continue the thesis work done in Fall 2017, which provides a thorough review of past computation models for language family homeland identification and concrete reasons for choosing the ASJP model over other models as the starting point. In Spring 2018, the work is mainly focused on improve the efficiency and accuracy of the modified model to exhibit the value of computational model applications in the field of linguistics.
+As a joint thesis between linguistics and computer science, this thesis will continue the thesis work done in Fall 2017, which provides a thorough review of past computation models for language family homeland identification and concrete reasons for choosing the ASJP model over other models as the starting point. In Spring 2018, the work is mainly focused on improve the efficiency and accuracy of the modified model to exhibit the value of computational model applications in the field of linguistics.
