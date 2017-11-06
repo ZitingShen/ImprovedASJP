@@ -1,4 +1,5 @@
 IPA symbol: Sample usage
+(categorization credit to http://www.phon.ucl.ac.uk/home/wells/ipa-unicode.htm)
 
  : hu, u
 ': 'plent.ɨn
@@ -14,100 +15,78 @@ IPA symbol: Sample usage
 =: kʰɑni=ʋor
 ?: o:a (?), ai
 X: XXX
-a: ɡ̊ʲaɫ̪
+~: i ~ j-
+·: að·a:ɣəθər
+
+á: nákti
+â: ˈprâti
+ã: mãːhɪɾʲ
+ǎ: ˈbǎːtsiti
+ā: pādarō
+é: teʔe, té, te
+ê: ˈtêtɕi
+ē: orpēs
+ě: ˈtʃětiri
+ẽ: ˈẽvn, ˈẽwn, ẽːn
+ì: léì̯os
+í: oi̯kíaː
+î: ˈbrîsati
+ǐ: krǐːlɔ
+ĩ: kɐ̃ĩ
+ī: əsī̃
+ĭ: vaĭp
+ó: ompʰalós
+ô: ˈkôntaṽ, ˈkuntaṽ
+õ: kõ
+ō: chōkir-
+ù: entáù̯tʰa
+ú: lúːɔː
+û: ʒûːt
+ǔ: bʎǔʋati
+ũ: bɐʃˈtɐ̃ũ
+ŭ: fraŭ
+
 b: b̊ɛn
 c: ceː
 d: d̊ʲeː
-e: d̊ʲeː
 f: flux
 g: glas
 h: hu, u
-i: ˈfʲiəkəlʲ
 j: tʲjuː
 k: kɤʎɪ
 l: lʲɛ
 m: mad̊ʲɪ
 n: b̊ɛn
-o: koː
 p: pahtə
 q: qɛ kəɾnə, ʔulʈɪ kəɾnə
 r: rʲuːnak
 s: ʤʲɛs
 t: ˈtʃi.lɪk
-u: flux
 v: ɫ̪ãːv
 w: l̪ˠɑːvˠ, l̪ˠæːw
 x: flux
-y: ˈryː, ˈryːz
 z: ˈtrɛːz
-~: i ~ j-
-·: að·a:ɣəθər
-á: nákti
-â: ˈprâti
-ã: mãːhɪɾʲ
-æ: ˈfˠæɾˠɟɪ
 ç: ˈiːçə, ˈiːhə, ˈiː
-é: teʔe, té, te
-ê: ˈtêtɕi
-ì: léì̯os
-í: oi̯kíaː
-î: ˈbrîsati
 ð: ˈmɛðʊl
-ó: ompʰalós
-ô: ˈkôntaṽ, ˈkuntaṽ
-õ: kõ
-ø: ˈløːn
-ù: entáù̯tʰa
-ú: lúːɔː
-û: ʒûːt
-ā: pādarō
 č: či
-ē: orpēs
-ě: ˈtʃětiri
-ĩ: kɐ̃ĩ
-ī: əsī̃
-ĭ: vaĭp
 ł: čełk‘el
 ŋ: frɑ̃ŋ-k
-ō: chōkir-
-œ: ˈblœ̃wɛn, ˈblœ̃niɛn
 š: šistɐ
-ũ: bɐʃˈtɐ̃ũ
-ŭ: fraŭ
-ž: bɐžgin
-ǎ: ˈbǎːtsiti
-ǐ: krǐːlɔ
-ǔ: bʎǔʋati
-ǝ: ˈmeːlǝn
 ǰ: mrǰiwn
-ɐ: 'bɪhan, 'bi:ɐn
-ɑ: lɑːn
-ɒ: wɒt
-ɔ: t̪ɔʰtʲ
 ɕ: ˈpˠaːɕtʲɪ
 ɖ: juːɖ
-ɘ: wɘ̟
-ə: ˈfʲiəkəlʲ
-ɛ: b̊ɛn
-ɜ: wɜ:m
 ɟ: nʲiː, nʲɪɟ
 ɡ: ɡ̊ʲaɫ̪
 ɣ: ruəɣ
-ɤ: kɤʎɪ
 ɥ: ˈviː, ˈɥiː
 ɦ: ˈɦaːzɛt
 ɧ: ɧæʈː
-ɨ: haɨl
-ɪ: kɤʎɪ
 ɫ: ɡ̊ʲaɫ̪
 ɬ: ˈɬədan
 ɭ: ˈaskɛɭ
-ɯ: ɯʃɡ̊ʲɪ
 ɰ: ˈjɛɰ̃zɘ̟k
 ɲ: kruɪɲ
 ɳ: ˈɧæ̀ːɳa
-ɵ: ˈhɵ̀sːtrɵ
-ɶ: ˈd̥ʰɶɐ̯ʌ
 ɸ: ɸʹið
 ɹ: oaɹ
 ɻ: ˈstɛɻ̊ʈʊɹ
@@ -118,24 +97,30 @@ z: ˈtrɛːz
 ʂ: pæˈʂu:n
 ʃ: ɯʃɡ̊ʲɪ
 ʈ: ɧæʈː
-ʉ: gʉəl
-ʊ: fʲlʲʊx
 ʋ: ˈkʋɪ̀nːə
-ʌ: tʌŋ
 ʍ: ʍi:
 ʎ: kɤʎɪ
-ʏ: ˈsʏgna
 ʐ: ˈʐowtɘ̟
 ʑ: ʑɔ
 ʒ: ˈniːʒal
 ʔ: teʔe, té, te
 ʝ: ʝo
+β: sʹi:, sʹiβʹ
+δ: /čānu, kaδu/
+θ: ˈkerθet
+χ: ˈɛχtɣənotə
+ᵲ: ɡ̊ʲaːᵲ
+ṙ: sɑṙə
+ṽ: ˈpreːṽ
+ž: bɐžgin
+
 ʣ: saʣɨn
 ʤ: ʤʲɛs
 ʥ: ʥɛɲ
 ʦ: səˈmɨnʦə
 ʧ: ʧe
 ʨ: uˈdɛʐaʨ
+
 ʰ: t̪ɔʰtʲ
 ʱ: dʱəkəl'ɳe
 ʲ: lʲɛ
@@ -170,16 +155,9 @@ z: ˈtrɛːz
 ̻: l̻ʲahən̻ˠ
 ͜: t͜svaĭ
 ͡: ˈsɪ̀t͡ʃːɑ
-β: sʹi:, sʹiβʹ
-δ: /čānu, kaδu/
-θ: ˈkerθet
-χ: ˈɛχtɣənotə
 ᵘ: ɔːᵘt
-ᵲ: ɡ̊ʲaːᵲ
-ṙ: sɑṙə
-ṽ: ˈpreːṽ
-ẽ: ˈẽvn, ˈẽwn, ẽːn
 ‘: čełk‘el
 ’: buz’altrəs
 ‿: 'ʃpe‿iən
 ⁿ: 'me:ⁿskə
+

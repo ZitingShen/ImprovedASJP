@@ -29,7 +29,7 @@ def checkIPASymbols(input, output='output/IPA Symbols - IELEX.txt'):
 
 	with open(output, 'w') as output_file:
 		output_file.write('IPA symbol: Sample usage\n\n')
-		for symbol in symbols:
+		for symbol in sorted(symbols):
 			output_file.write('{}: {}\n'.format(symbol.encode('utf8'), \
 				symbols[symbol]))
 	return symbols
