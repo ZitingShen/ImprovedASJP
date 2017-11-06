@@ -59,7 +59,7 @@ def languagesWithPhonologicalForms(raw_input, \
 		return sorted_languages
 
 def generateOrthgraphicSwadeshList(raw_input, languages_orthographical, \
-	output='data/Processed Data with Orthograhic Forms - IELEX.csv'):
+	output='data/Processed Data with Orthographical Forms - IELEX.csv'):
 	"""
 	Generate a swadesh of orthographical forms for each language that has 100+ 
 	words in orthographical forms.
