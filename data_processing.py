@@ -79,7 +79,7 @@ def generateOrthgraphicSwadeshList(raw_input, languages_orthographic, \
 	"""
 	with open(output, 'w') as output_file:
 		fieldnames = ['language_name', 'language_code', 'lexemes', 'word_id', \
-						'word_meaing', 'word_orthographic_form', \
+						'word_meaning', 'word_orthographic_form', \
 						'word_phonological_form', 'word_gloss', 'word_notes']
 		writer = csv.DictWriter(output_file, fieldnames=fieldnames)
 		writer.writeheader()
@@ -103,7 +103,7 @@ def generatePhonologicalSwadeshList(raw_input, languages_phonological, \
 	"""
 	with open(output, 'w') as output_file:
 		fieldnames = ['language_name', 'language_code', 'lexemes', 'word_id', \
-						'word_meaing', 'word_orthographic_form', \
+						'word_meaning', 'word_orthographic_form', \
 						'word_phonological_form', 'word_gloss', 'word_notes']
 		writer = csv.DictWriter(output_file, fieldnames=fieldnames)
 		writer.writeheader()
