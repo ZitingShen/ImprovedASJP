@@ -1,0 +1,122 @@
+IPA symbol: Sample usage
+(categorization credit to http://www.phon.ucl.ac.uk/home/wells/ipa-unicode.htm)
+
+ : hu, u
+': 'plent.ɨn
+(: ˈg(w)ri(z)jɛn
+): ˈg(w)ri(z)jɛn
+*: *gune̞ː
+,: hu, u
+-: gɑ̃n-t
+.: ˈtʃi.lɪk
+/: ˈbeːzã en e ˈxurves/ˈbeːzã gurˈveːzet
+:: ma:, mah
+;: əmb, əm; amb, am; en
+=: kʰɑni=ʋor
+?: o:a (?), ai
+X: XXX
+~: i ~ j-
+·: að·a:ɣəθər
+
+high
+á: nákti
+é: teʔe, té, te
+í: oi̯kíaː
+ó: ompʰalós
+ú: lúːɔː
+
+mid
+ā: pādarō
+ē: orpēs
+ī: əsī̃
+ō: chōkir-
+
+low
+ì: léì̯os
+ù: entáù̯tʰa
+
+falling
+â: ˈprâti
+ê: ˈtêtɕi
+î: ˈbrîsati
+ô: ˈkôntaṽ, ˈkuntaṽ
+û: ʒûːt
+
+nasalized
+ã: mãːhɪɾʲ
+ẽ: ˈẽvn, ˈẽwn, ẽːn
+ĩ: kɐ̃ĩ
+õ: kõ
+ũ: bɐʃˈtɐ̃ũ
+ṽ: ˈpreːṽ
+
+rising
+ǎ: ˈbǎːtsiti
+ě: ˈtʃětiri
+ǐ: krǐːlɔ
+ǔ: bʎǔʋati
+č: či
+š: šistɐ
+ǰ: mrǰiwn
+ž: bɐžgin
+
+extra short
+ĭ: vaĭp
+ŭ: fraŭ
+
+non-ipa symbols
+δ: /čānu, kaδu/
+ᵲ: ɡ̊ʲaːᵲ
+ṙ: sɑṙə
+
+
+
+Not represented in the encodings
+
+primary stress
+ˈ: ˈfʲiəkəlʲ
+
+secondary stress
+ˌ: ˌabaˈlɑ̃mur, aˈblɑ̃mǝr, blɑ̃m
+
+long
+ː: koː
+
+half-long
+ˑ: piˑʊ
+
+extra-short
+̆: ˈsɛmĕɛ
+
+syllabic
+̩: 'vɪʃn̩
+non-syllabic
+̯: əi̯ɾʲ
+
+raised
+̝: g̥ʁɶ̝nˀ
+
+lowered
+̞: flɔ, flɔ̞ɾ
+
+advanced
+̟: wɘ̟
+
+retracted
+̠: əunʲ, əun̠ʲ, oːn̠ʲ
+
+centralized
+̤: z̤âdi
+
+
+joining symbol
+͜: t͜svaĭ
+͡: ˈsɪ̀t͡ʃːɑ
+
+link
+‿: 'ʃpe‿iən
+
+??
+ᵘ: ɔːᵘt
+
+

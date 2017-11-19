@@ -1,4 +1,4 @@
-Language: Number of words with orthographical forms
+Language: Number of words with orthographic forms
 
 Afrikaans: 233
 Albanian: 215
