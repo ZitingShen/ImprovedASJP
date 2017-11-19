@@ -1,22 +1,7 @@
 IPA symbol: Sample usage
 (categorization credit to http://www.phon.ucl.ac.uk/home/wells/ipa-unicode.htm)
 
- : hu, u
-': 'plent.ɨn
-(: ˈg(w)ri(z)jɛn
-): ˈg(w)ri(z)jɛn
-*: *gune̞ː
-,: hu, u
--: gɑ̃n-t
-.: ˈtʃi.lɪk
-/: ˈbeːzã en e ˈxurves/ˈbeːzã gurˈveːzet
-:: ma:, mah
-;: əmb, əm; amb, am; en
-=: kʰɑni=ʋor
-?: o:a (?), ai
-X: XXX
-~: i ~ j-
-·: að·a:ɣəθər
+special symbols with tones or length marks
 
 high
 á: nákti
@@ -54,6 +39,7 @@ rising
 ǎ: ˈbǎːtsiti
 ě: ˈtʃětiri
 ǐ: krǐːlɔ
+ǒ: ʋǒda
 ǔ: bʎǔʋati
 č: či
 š: šistɐ
@@ -64,35 +50,52 @@ extra short
 ĭ: vaĭp
 ŭ: fraŭ
 
-non-ipa symbols
-δ: /čānu, kaδu/
-ᵲ: ɡ̊ʲaːᵲ
-ṙ: sɑṙə
+
+
+non-ipa consonants
+δ: /čānu, kaδu/	(treated as ð)
+ᵲ: ɡ̊ʲaːᵲ		(treated as r)
+ṙ: sɑṙə			(treated as r)
 
 
 
-Not represented in the encodings
+ipa diacritics not represented in the encodings
 
 primary stress
+': 'plent.ɨn
 ˈ: ˈfʲiəkəlʲ
 secondary stress
 ˌ: ˌabaˈlɑ̃mur, aˈblɑ̃mǝr, blɑ̃m
-
 
 syllabic
 ̩: 'vɪʃn̩
 non-syllabic
 ̯: əi̯ɾʲ
 
+syllable break
+.: ˈtʃi.lɪk
 
-joining symbol
-͜: t͜svaĭ
-͡: ˈsɪ̀t͡ʃːɑ
-
-link
+linking (absense of a break)
 ‿: 'ʃpe‿iən
 
-??
+
+
+non-ipa symbols
+
+question mark
+?: o:a (?), ai
+
+tilda
+~: i ~ j-
+
+dot 
+·: að·a:ɣəθər
+
+dash
+-: gɑ̃n-t
+
+equal sign
+=: kʰɑni=ʋor
+
+u superscipt
 ᵘ: ɔːᵘt
-
-

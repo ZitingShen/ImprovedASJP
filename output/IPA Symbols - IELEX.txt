@@ -1,110 +1,107 @@
 IPA symbol: Sample usage
 
- : hu, u
-': 'plent.ɨn
+ : pø:r, pe'guls
+': 'me:lɛn
 (: ˈg(w)ri(z)jɛn
 ): ˈg(w)ri(z)jɛn
-*: *gune̞ː
-,: hu, u
--: gɑ̃n-t
-.: ˈtʃi.lɪk
+,: blwaː,ˈblwaːs
+-: ãn...-mã
+.: ãn...-mã
 /: ˈbeːzã en e ˈxurves/ˈbeːzã gurˈveːzet
-:: ma:, mah
+:: 'me:lɛn
 ;: əmb, əm; amb, am; en
 =: kʰɑni=ʋor
 ?: o:a (?), ai
-X: XXX
-a: ɡ̊ʲaɫ̪
-b: b̊ɛn
+a: blwaː,ˈblwaːs
+b: blwaː,ˈblwaːs
 c: ceː
-d: d̊ʲeː
-e: d̊ʲeː
-f: flux
-g: glas
-h: hu, u
-i: ˈfʲiəkəlʲ
-j: tʲjuː
-k: kɤʎɪ
-l: lʲɛ
-m: mad̊ʲɪ
-n: b̊ɛn
-o: koː
-p: pahtə
+d: ɡɑ̃nd
+e: 'me:lɛn
+f: 'fɔwtĩ
+g: gwre:k
+h: hɛ̃nd
+i: xwi
+j: 'mɛjzã
+k: kwa:t
+l: 'me:lɛn
+m: 'me:lɛn
+n: 'me:lɛn
+o: lost
+p: prẽw
 q: qɛ kəɾnə, ʔulʈɪ kəɾnə
-r: rʲuːnak
-s: ʤʲɛs
-t: ˈtʃi.lɪk
-u: flux
-v: ɫ̪ãːv
-w: l̪ˠɑːvˠ, l̪ˠæːw
-x: flux
-y: ˈryː, ˈryːz
-z: ˈtrɛːz
+r: prẽw
+s: blwaː,ˈblwaːs
+t: kwa:t
+u: pø:r, pe'guls
+v: 'a:vɛl
+w: xwi
+x: xwi
+y: 'sỹ:ñ
+z: 'kɛrzɛt
 ~: i ~ j-
 ·: að·a:ɣəθər
-á: nákti
-â: ˈprâti
-ã: mãːhɪɾʲ
+á: metá
+â: kâd
+ã: mãmː
 æ: ˈfˠæɾˠɟɪ
 ç: ˈiːçə, ˈiːhə, ˈiː
 é: teʔe, té, te
-ê: ˈtêtɕi
+ê: bêo
 ì: léì̯os
 í: oi̯kíaː
-î: ˈbrîsati
-ð: ˈmɛðʊl
+î: ʋîː
+ð: ˈbloað
 ó: ompʰalós
-ô: ˈkôntaṽ, ˈkuntaṽ
+ô: ɡôdina
 õ: kõ
-ø: ˈløːn
+ø: pø:r, pe'guls
 ù: entáù̯tʰa
 ú: lúːɔː
 û: ʒûːt
 ā: pādarō
 č: či
 ē: orpēs
-ě: ˈtʃětiri
+ě: skrěːnuti
 ĩ: kɐ̃ĩ
-ī: əsī̃
 ĭ: vaĭp
 ł: čełk‘el
-ŋ: frɑ̃ŋ-k
-ō: chōkir-
-œ: ˈblœ̃wɛn, ˈblœ̃niɛn
+ŋ: diz'lɔ̃ŋkã
+ō: pādarō
+œ: 'nøjal, 'nœ̃:vĩ
 š: šistɐ
 ũ: bɐʃˈtɐ̃ũ
 ŭ: fraŭ
 ž: bɐžgin
-ǎ: ˈbǎːtsiti
-ǐ: krǐːlɔ
-ǔ: bʎǔʋati
+ǎ: bǎtsati
+ǐ: ɡlǐːsta
+ǒ: ʋǒda
+ǔ: ǔbosti
 ǝ: ˈmeːlǝn
 ǰ: mrǰiwn
 ɐ: 'bɪhan, 'bi:ɐn
-ɑ: lɑːn
+ɑ: ɡɑ̃nd
 ɒ: wɒt
-ɔ: t̪ɔʰtʲ
-ɕ: ˈpˠaːɕtʲɪ
+ɔ: 'mɔwɛs
+ɕ: ǒtetɕi
 ɖ: juːɖ
 ɘ: wɘ̟
-ə: ˈfʲiəkəlʲ
-ɛ: b̊ɛn
+ə: bʲlʲiənʲ
+ɛ: 'me:lɛn
 ɜ: wɜ:m
 ɟ: nʲiː, nʲɪɟ
-ɡ: ɡ̊ʲaɫ̪
-ɣ: ruəɣ
-ɤ: kɤʎɪ
-ɥ: ˈviː, ˈɥiː
+ɡ: ɡɑ̃nd
+ɣ: 'sɛ:ɣã
+ɤ: ɤ.əɾk
+ɥ: vi:, ɥi:
 ɦ: ˈɦaːzɛt
 ɧ: ɧæʈː
-ɨ: haɨl
-ɪ: kɤʎɪ
-ɫ: ɡ̊ʲaɫ̪
-ɬ: ˈɬədan
+ɨ: a boˈrɨ
+ɪ: ˈdebʁɪ
+ɫ: ɡˠɫuːɲ
 ɭ: ˈaskɛɭ
-ɯ: ɯʃɡ̊ʲɪ
+ɯ: vɯ
 ɰ: ˈjɛɰ̃zɘ̟k
-ɲ: kruɪɲ
+ɲ: 'tɔ̃ɲ
 ɳ: ˈɧæ̀ːɳa
 ɵ: ˈhɵ̀sːtrɵ
 ɶ: ˈd̥ʰɶɐ̯ʌ
@@ -112,50 +109,50 @@ z: ˈtrɛːz
 ɹ: oaɹ
 ɻ: ˈstɛɻ̊ʈʊɹ
 ɽ: ɡʉːɽ, ɡʉːl
-ɾ: d̊ʲiːɾʲəx
+ɾ: tʲɾʲiː
 ʀ: vɛʀ
-ʁ: bɐˈʁiɣɐ
+ʁ: duːʁ
 ʂ: pæˈʂu:n
-ʃ: ɯʃɡ̊ʲɪ
+ʃ: 'saʃã
 ʈ: ɧæʈː
 ʉ: gʉəl
 ʊ: fʲlʲʊx
-ʋ: ˈkʋɪ̀nːə
+ʋ: ʋîː
 ʌ: tʌŋ
 ʍ: ʍi:
-ʎ: kɤʎɪ
+ʎ: pʎûʋati
 ʏ: ˈsʏgna
 ʐ: ˈʐowtɘ̟
-ʑ: ʑɔ
-ʒ: ˈniːʒal
+ʑ: lěːdʑa
+ʒ: 'sɔ̃:ʒal
 ʔ: teʔe, té, te
 ʝ: ʝo
 ʣ: saʣɨn
-ʤ: ʤʲɛs
+ʤ: 'ʍɪʤa
 ʥ: ʥɛɲ
 ʦ: səˈmɨnʦə
 ʧ: ʧe
 ʨ: uˈdɛʐaʨ
-ʰ: t̪ɔʰtʲ
+ʰ: ˈg̥ʰvenə
 ʱ: dʱəkəl'ɳe
-ʲ: lʲɛ
+ʲ: ʃivʲ
 ʷ: ˈdeːhoʷ, ˈdeː(h)u
 ʹ: sʹi:, sʹiβʹ
 ˀ: guˀl
-ˈ: ˈfʲiəkəlʲ
+ˈ: blwaː,ˈblwaːs
 ˌ: ˌabaˈlɑ̃mur, aˈblɑ̃mǝr, blɑ̃m
-ː: koː
+ː: blwaː,ˈblwaːs
 ˑ: piˑʊ
 ˠ: bʲan̪ˠ
 ̀: ˈkɛ̀lɪŋg
 ́: wɑ́tːn̩
 ̂: vîː
-̃: prɛ̃v, prẽw
-̄: pāɳī
+̃: prẽw
+̄: iɳā
 ̆: ˈsɛmĕɛ
-̊: b̊ɛn
+̊: ˈɡ̊ʰnydə
 ̌: mrǎːvlja
-̑: b̑ə
+̑: hyːmȇːs
 ̜: ˈtʰvo̜ːa
 ̝: g̥ʁɶ̝nˀ
 ̞: flɔ, flɔ̞ɾ
@@ -163,19 +160,16 @@ z: ˈtrɛːz
 ̠: əunʲ, əun̠ʲ, oːn̠ʲ
 ̤: z̤âdi
 ̥: sg̥ɒwˀ
-̩: 'vɪʃn̩
-̪: ɡ̊ʲaɫ̪
+̩: tr̩ːʎati
+̪: bʲan̪ˠ
 ̯: əi̯ɾʲ
-̴: ˈkʲar̴st
 ̻: l̻ʲahən̻ˠ
 ͜: t͜svaĭ
 ͡: ˈsɪ̀t͡ʃːɑ
 β: sʹi:, sʹiβʹ
-δ: /čānu, kaδu/
 θ: ˈkerθet
-χ: ˈɛχtɣənotə
+χ: ˈkʁoːχɛn
 ᵘ: ɔːᵘt
-ᵲ: ɡ̊ʲaːᵲ
 ṙ: sɑṙə
 ṽ: ˈpreːṽ
 ẽ: ˈẽvn, ˈẽwn, ẽːn

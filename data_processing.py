@@ -39,7 +39,7 @@ def languagesWithOrthographicForms(raw_input, \
 		return sorted_languages
 
 def languagesWithPhonologicalForms(raw_input, \
-	output='output/Languages with phonological Forms.txt'):
+	output='output/Languages with Phonological Forms.txt'):
 	"""
 	Return a list of languages that have over 100 words with phonological forms.
 	:param raw_input: the raw input from a reader list
@@ -48,10 +48,10 @@ def languagesWithPhonologicalForms(raw_input, \
 	"""
 	languages_with_phonological_forms = {}
 	for item in raw_input:
-		if item['word_phonological_form'] == '':
+		if item['word_phonological_form'] == '' or item['word_phonological_form'] == 'XXX':
 			continue
-		if '[Legacy]' in item['language_name']:
-			continue
+		#if '[Legacy]' in item['language_name']:
+		#	continue
 		if item['language_name'] not in languages_with_phonological_forms:
 			languages_with_phonological_forms[item['language_name']] = 1
 		else:
@@ -59,12 +59,13 @@ def languagesWithPhonologicalForms(raw_input, \
 		
 	with open(output, "w") as output_file:
 		output_file.write("Language: Number of words with phonological forms\n\n")
-		sorted_languages = sorted(languages_with_phonological_forms.keys())
-		for language in sorted_languages:
+		languages = []
+		for language in sorted(languages_with_phonological_forms.keys()):
 			if languages_with_phonological_forms[language] > 100:
+				languages += [language]
 				output_file.write("{}: {}\n".format(language, \
 					languages_with_phonological_forms[language]))
-		return sorted_languages
+		return languages
 
 def generateOrthgraphicSwadeshList(raw_input, languages_orthographic, \
 	output='data/Processed Data with Orthographic Forms - IELEX.csv'):
@@ -110,7 +111,8 @@ def generatePhonologicalSwadeshList(raw_input, languages_phonological, \
 
 		for item in raw_input:
 			if item['language_name'] not in languages_phonological \
-			or item['word_phonological_form'] == '':
+			or item['word_phonological_form'] == '' \
+			or item['word_phonological_form'] == 'XXX':
 				continue
 			writer.writerow({field: item[field] for field in fieldnames})
 

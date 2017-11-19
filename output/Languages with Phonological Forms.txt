@@ -8,7 +8,7 @@ Bihari: 207
 Breton: 170
 Bulgarian: 217
 Catalan: 248
-Classical Armenian: 251
+Classical Armenian: 249
 Czech: 223
 Danish: 259
 Danish Fjolde: 236
@@ -54,3 +54,5 @@ Stavangersk: 255
 Swedish: 295
 Ukrainian: 223
 Urdu: 220
+[Legacy] Breton St: 212
+[Legacy] Serbian: 181

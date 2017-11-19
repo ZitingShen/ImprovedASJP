@@ -352,6 +352,14 @@ ipa_symbols = { #vowels
 					'round': 100,
 					'nasal': 0,
                     'lateral': 0},
+                u'ǒ': {'place': multivalued_features['place']['back-vowel'],
+					'manner': multivalued_features['manner']['mid-vowel'],
+					'voice': multivalued_features['voice']['voiced'],
+					'tone': multivalued_features['tone']['rising'],
+					'length': multivalued_features['length']['default'],
+					'round': 100,
+					'nasal': 0,
+                    'lateral': 0},
 				u'ô': {'place': multivalued_features['place']['back-vowel'],
 					'manner': multivalued_features['manner']['mid-vowel'],
 					'voice': multivalued_features['voice']['voiced'],
@@ -1146,6 +1154,7 @@ ipa_diacritics_replace = {u'̥': ('voice', multivalued_features['voice']['voicel
 		                  u'̂': ('tone', multivalued_features['tone']['falling']),
             		      u'̑': ('tone', multivalued_features['tone']['falling']),
 						  u'ː': ('length', multivalued_features['length']['long']),
+						  u':': ('length', multivalued_features['length']['long']),
 						  u'ˑ': ('length', multivalued_features['length']['half-long']),
 						  u'̆': ('length', multivalued_features['length']['extra-short'])
 						  }
@@ -1158,5 +1167,8 @@ ipa_diacritics_modify = {u'̝': ('manner', 20),
 						 }
 
 #join the preceding and following symbols for double articulation
-ipa_joining_bar = set([u'͜', u'͡']) 
+ipa_joining_bars = set([u'͜', u'͡']) 
+
+#split the representation to multiple words
+ipa_delimiters = u',|/|;'
 				
