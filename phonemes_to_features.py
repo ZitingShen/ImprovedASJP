@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*- 
 
 import csv
@@ -15,8 +15,8 @@ class Word:
 		"""
 		self.language = language
 		self.meaning = meaning
-		self.representation = representation.decode('utf-8')
-		self.words = [word.decode('utf-8').strip() for word in re.split(ipa_delimiters, representation)]
+		self.representation = representation.decode('utf-8')  # you shouldn't need this in python3
+		self.words = [word.decode('utf-8').strip() for word in re.split(ipa_delimiters, representation)]  # you shouldn't need this in python3
 		self.features, word_other_symbols = self.getFeatures()
 		for symbol in word_other_symbols:
 			other_symbols.add(symbol)
@@ -80,7 +80,7 @@ class Word:
 				for feature in sorted(phoneme.keys()):
 					repr += feature + ': ' + str(phoneme[feature]) + '\n'
 		repr += '-'*79
-		return repr.encode('utf-8')
+		return repr.encode('utf-8')   # you shouldn't need this in python3
 
 def readInOrthographicData( \
 	input='data/Processed Data with Orthographic Forms - IELEX.csv'):
@@ -113,13 +113,13 @@ def checkIPASymbols(input, output='output/IPA Symbols - IELEX.txt'):
 	"""
 	symbols = {}
 	for item in input:
-		for char in item['word_phonological_form'].decode('utf-8'):
+		for char in item['word_phonological_form'].decode('utf-8'):   # you shouldn't need this in python3
 			symbols[char] = item['word_phonological_form']
 
 	with open(output, 'w') as output_file:
 		output_file.write('IPA symbol: Sample usage\n\n')
 		for symbol in sorted(symbols):
-			output_file.write('{}: {}\n'.format(symbol.encode('utf8'), \
+			output_file.write('{}: {}\n'.format(symbol.encode('utf8'), \   # you shouldn't need this in python3
 				symbols[symbol]))
 	return symbols
 
@@ -139,9 +139,9 @@ def convertToFeatures(input, output='output/Swadesh List as Features.txt'):
 		for word in words:
 			output_file.write('{}\n'.format(word))
 
-	print len(other_symbols)		
+	print(len(other_symbols))		
 	for symbol in other_symbols:
-		print symbol
+		print(symbol)
 	return words
 
 #w = Word('some language', 'some meaning', 'herpetón')
