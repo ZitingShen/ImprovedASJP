@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*- 
 
 from phonemes_to_features import convertToFeatures, readInPhonologicalData, Word
+from compare_words import WordComparer
 
 def generate_word_dictionary(words_bag, meaning_list='data/40-item Swadesh List.txt'):
 	"""
@@ -37,22 +38,37 @@ class LanguageComparer():
 		self.language2_dict = words_dict[language2]
 		self.meaning_list = meaning_list
 
-	def compare():
+	def linguistic_distance(self):
 		"""
 		Compare the two languages word by word for all meanings in the meaning_list.
+		:return: the linguistic similarity between the two languages
 		"""
-		for meaing in self.meaning_list:
+		num_words = 0
+		total_similarity = 0.0
+		for meaning in self.meaning_list:
 			word1 = self.language1_dict.get(meaning)
 			word2 = self.language2_dict.get(meaning)
+			if word1 != None and word2 != None:
+				num_words += 1
+				word_comparer = WordComparer(word1, word2)
+				self_comparer1 = WordComparer(word1, word1)
+				self_comparer2 = WordComparer(word2, word2)
+				total_similarity += 1 - word_comparer.generate_matrix()*2.0/\
+									(self_comparer1.generate_matrix()+self_comparer2.generate_matrix())
+		return total_similarity/num_words
 
 
-def compare_languages(meaning_list='data/40-item Swadesh List.txt'):
+def compare_languages(meaning_input='data/40-item Swadesh List.txt'):
 	"""
 	Compare each pair of languages that has 100+ words in phonological forms.
 	:param meaning_list: the basic vocabulary used to compute the linguistic distance
 	"""
-	with open(meaning_list) as input:
-		self.meaning_list = [meaning for line in input for meaning in line.split()]
+	with open(meaning_input) as input:
+		meaning_list = [meaning for line in input for meaning in line.split()]
+	words_bag = convertToFeatures(readInPhonologicalData())
+	words_dict = generate_word_dictionary(words_bag)
 
-generate_word_dictionary(convertToFeatures(readInPhonologicalData()))
-#LanguageComparer('English', 'French')
+	language_comparer = LanguageComparer('Icelandic', 'English', words_dict, meaning_list)
+	print language_comparer.linguistic_distance()
+
+compare_languages()
