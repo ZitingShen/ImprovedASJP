@@ -41,6 +41,9 @@ class LanguageComparer():
 		"""
 		Compare the two languages word by word for all meanings in the meaning_list.
 		"""
+		for meaing in self.meaning_list:
+			word1 = self.language1_dict.get(meaning)
+			word2 = self.language2_dict.get(meaning)
 
 
 def compare_languages(meaning_list='data/40-item Swadesh List.txt'):
