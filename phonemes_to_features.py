@@ -139,9 +139,9 @@ def convertToFeatures(input, output='output/Swadesh List as Features.txt'):
 		for word in words:
 			output_file.write('{}\n'.format(word))
 
-	print len(other_symbols)		
-	for symbol in other_symbols:
-		print symbol
+	##print len(other_symbols)		
+	##for symbol in other_symbols:
+	##	print symbol
 	return words
 
 #w = Word('some language', 'some meaning', 'herpetón')

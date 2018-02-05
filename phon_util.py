@@ -48,16 +48,16 @@ multivalued_features = {'place': {
 							},
 						'voice': {
 							'voiced': 100,
-							'breathy': 75,
+							'ejective': 75,
 							'voiceless': 50,
-							'ejective': 25,
+							'breathy': 25,
 							'aspirated': 0
 							},
 						'length': {
 							'long': 100,
-							'half-long': 75,
-							'default': 50,
-							'extra-short': 25
+							'half-long': 66,
+							'default': 33,
+							'extra-short': 0
 							}
 						}
 
@@ -1171,4 +1171,9 @@ ipa_joining_bars = set([u'͜', u'͡'])
 
 #split the representation to multiple words
 ipa_delimiters = u',|/|;'
+
+feature_saliences = {'place': 50, 'manner': 50, 'tone': 10, 'voice': 10, 'length': 10,
+					 'round': 10, 'nasal': 5, 'lateral': 5}
+
+operation_costs = {'skip': -1000, 'substitute': 3500, 'expand': 4500}
 				
