@@ -12,8 +12,10 @@ class WordComparer():
 		:param word1: word1 should be the type of Word defined in phonemes_to_features
 		:param word2: word2 should be the type of Word defined in phonemes_to_features
 		"""
-		self.word1 = Word(None, None, word1, set([]))
-		self.word2 = Word(None, None, word2, set([]))
+		self.word1 = word1
+		self.word2 = word2
+		#self.word1 = Word(None, None, word1, set([]))
+		#self.word2 = Word(None, None, word2, set([]))
 		self.phonemes1 = self.word1.features[self.word1.words[0]]
 		self.phonemes2 = self.word2.features[self.word2.words[0]]
 		self.matrix = [[0 for j in xrange(len(self.phonemes2)+1)] for i in xrange(len(self.phonemes1)+1)]

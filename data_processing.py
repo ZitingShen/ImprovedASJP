@@ -34,7 +34,7 @@ def languagesWithOrthographicForms(raw_input, \
 		sorted_languages = sorted(languages_with_orthographic_forms.keys())
 		for language in sorted_languages:
 			if languages_with_orthographic_forms[language] > 100:
-				output_file.write("{}: {}\n".format(language, \
+				output_file.write("{} {}\n".format(language, \
 					languages_with_orthographic_forms[language]))
 		return sorted_languages
 
@@ -63,7 +63,7 @@ def languagesWithPhonologicalForms(raw_input, \
 		for language in sorted(languages_with_phonological_forms.keys()):
 			if languages_with_phonological_forms[language] > 100:
 				languages += [language]
-				output_file.write("{}: {}\n".format(language, \
+				output_file.write("{} {}\n".format(language, \
 					languages_with_phonological_forms[language]))
 		return languages
 
