@@ -17,7 +17,7 @@ def languagesWithOrthographicForms(raw_input, \
 	:param raw_input: the raw input from a reader list
 	:param output: the file name of the output
 	:return: a sorted list of languages that has 100+ item Swadesh list in orthographic forms
-	"""
+	"""i
 	languages_with_orthographic_forms = {}
 	for item in raw_input:
 		if item['word_orthographic_form'] == '':
@@ -117,8 +117,8 @@ def generatePhonologicalSwadeshList(raw_input, languages_phonological, \
 			writer.writerow({field: item[field] for field in fieldnames})
 
 
-raw_input = readInRawData()
-languages_orthographic = languagesWithOrthographicForms(raw_input)
-languages_phonological = languagesWithPhonologicalForms(raw_input)
-generateOrthgraphicSwadeshList(raw_input, languages_orthographic)
-generatePhonologicalSwadeshList(raw_input, languages_phonological)
+#raw_input = readInRawData()
+#languages_orthographic = languagesWithOrthographicForms(raw_input)
+#languages_phonological = languagesWithPhonologicalForms(raw_input)
+#generateOrthgraphicSwadeshList(raw_input, languages_orthographic)
+#generatePhonologicalSwadeshList(raw_input, languages_phonological)

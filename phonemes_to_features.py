@@ -146,4 +146,4 @@ def convertToFeatures(input, output='output/Swadesh List as Features.txt'):
 
 #w = Word('some language', 'some meaning', 'herpetón')
 #print w
-convertToFeatures(readInPhonologicalData())
+#convertToFeatures(readInPhonologicalData())

@@ -58,17 +58,20 @@ class LanguageComparer():
 		return total_similarity/num_words
 
 
-def compare_languages(meaning_input='data/40-item Swadesh List.txt'):
+def compare_languages(languageA, languageB, meaning_input='data/40-item Swadesh List.txt'):
 	"""
-	Compare each pair of languages that has 100+ words in phonological forms.
+	Compare a pair of languages that has 100+ words in phonological forms.
+	:param languageA: one of the two languages compared
+	:param languageB: the other language compared
 	:param meaning_list: the basic vocabulary used to compute the linguistic distance
+	:return: the distance between languageA and languageB
 	"""
 	with open(meaning_input) as input:
 		meaning_list = [meaning for line in input for meaning in line.split()]
 	words_bag = convertToFeatures(readInPhonologicalData())
 	words_dict = generate_word_dictionary(words_bag)
 
-	language_comparer = LanguageComparer('Icelandic', 'English', words_dict, meaning_list)
-	print language_comparer.linguistic_distance()
+	language_comparer = LanguageComparer(languageA, languageB, words_dict, meaning_list)
+	return language_comparer.linguistic_distance()
 
-compare_languages()
+#print compare_languages('Icelandic', 'English')
