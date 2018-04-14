@@ -64,17 +64,23 @@ Marathi 277
 Marwari 260
 Middle Breton 241
 Middle Cornish 348
+Mycenaean Greek 53
 Nepali 269
 Norwegian Riksmal 292
+Old Breton 81
 Old Church Slavonic 228
+Old Cornish 55
 Old English 248
 Old Gutnish 144
 Old High German 267
 Old Irish 312
 Old Norse 339
+Old Persian 81
 Old Prussian 184
 Old Swedish 297
+Old Welsh 71
 Oriya 288
+Oscan 53
 Ossetic 230
 Ossetic Digor 202
 Ossetic Iron 200
@@ -117,6 +123,7 @@ Tocharian A 179
 Tocharian B 215
 Tsakonian 109
 Ukrainian 223
+Umbrian 65
 Urdu 220
 Vasi-vari 107
 Vedic Sanskrit 295

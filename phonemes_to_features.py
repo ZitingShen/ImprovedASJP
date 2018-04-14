@@ -125,10 +125,10 @@ def checkIPASymbols(input, output='output/IPA Symbols - IELEX.txt'):
 
 def convertToFeatures(input, output='output/Swadesh List as Features.txt'):
 	"""
-	Check the range of IPA symbols of the phonological data.
+	Convert a list of word phonetic transcriptions to corresponding features.
 	:param input: the reader of the input file as a list
 	:param output: the file name of the output
-	:return: a list of all words in the data which are represented as features
+	:return: a list of words in the data which are represented as features
 	"""
 	other_symbols = set([])
 	words = [Word(item['language_name'], item['word_meaning'], \
@@ -144,6 +144,7 @@ def convertToFeatures(input, output='output/Swadesh List as Features.txt'):
 	##	print symbol
 	return words
 
-#w = Word('some language', 'some meaning', 'herpetón')
-#print w
-#convertToFeatures(readInPhonologicalData())
+if __name__ == '__main__':	
+	w = Word('some language', 'some meaning', 'herpetón')
+	print w
+	convertToFeatures(readInPhonologicalData())

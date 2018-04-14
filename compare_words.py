@@ -77,6 +77,7 @@ class WordComparer():
 								 - abs(phoneme1[feature]-phoneme3[feature])*feature_saliences[feature]
 		return result
 
-#word_comparer = WordComparer('bɑnd', 'bæt')
-#print word_comparer.generate_matrix()
-#word_comparer.print_matrix()
+if __name__ == '__main__':	
+	word_comparer = WordComparer('bɑnd', 'bæt')
+	print word_comparer.generate_matrix()
+	word_comparer.print_matrix()

@@ -74,4 +74,5 @@ def compare_languages(languageA, languageB, meaning_input='data/40-item Swadesh 
 	language_comparer = LanguageComparer(languageA, languageB, words_dict, meaning_list)
 	return language_comparer.linguistic_distance()
 
-#print compare_languages('Icelandic', 'English')
+if __name__ == '__main__':	
+	print compare_languages('Icelandic', 'English')

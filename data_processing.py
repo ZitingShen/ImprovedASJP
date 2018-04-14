@@ -17,7 +17,7 @@ def languagesWithOrthographicForms(raw_input, \
 	:param raw_input: the raw input from a reader list
 	:param output: the file name of the output
 	:return: a sorted list of languages that has 100+ item Swadesh list in orthographic forms
-	"""i
+	"""
 	languages_with_orthographic_forms = {}
 	for item in raw_input:
 		if item['word_orthographic_form'] == '':
@@ -33,7 +33,7 @@ def languagesWithOrthographicForms(raw_input, \
 		output_file.write("Language: Number of words with orthographic forms\n\n")
 		sorted_languages = sorted(languages_with_orthographic_forms.keys())
 		for language in sorted_languages:
-			if languages_with_orthographic_forms[language] > 100:
+			if languages_with_orthographic_forms[language] > 40:
 				output_file.write("{} {}\n".format(language, \
 					languages_with_orthographic_forms[language]))
 		return sorted_languages
@@ -61,7 +61,7 @@ def languagesWithPhonologicalForms(raw_input, \
 		output_file.write("Language: Number of words with phonological forms\n\n")
 		languages = []
 		for language in sorted(languages_with_phonological_forms.keys()):
-			if languages_with_phonological_forms[language] > 100:
+			if languages_with_phonological_forms[language] > 40:
 				languages += [language]
 				output_file.write("{} {}\n".format(language, \
 					languages_with_phonological_forms[language]))
@@ -116,9 +116,9 @@ def generatePhonologicalSwadeshList(raw_input, languages_phonological, \
 				continue
 			writer.writerow({field: item[field] for field in fieldnames})
 
-
-#raw_input = readInRawData()
-#languages_orthographic = languagesWithOrthographicForms(raw_input)
-#languages_phonological = languagesWithPhonologicalForms(raw_input)
-#generateOrthgraphicSwadeshList(raw_input, languages_orthographic)
-#generatePhonologicalSwadeshList(raw_input, languages_phonological)
+if __name__ == '__main__':	
+	raw_input = readInRawData()
+	languages_orthographic = languagesWithOrthographicForms(raw_input)
+	languages_phonological = languagesWithPhonologicalForms(raw_input)
+	generateOrthgraphicSwadeshList(raw_input, languages_orthographic)
+	generatePhonologicalSwadeshList(raw_input, languages_phonological)

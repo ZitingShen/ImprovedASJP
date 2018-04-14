@@ -62,6 +62,7 @@ def writeLongitudeLatitude(output, languages=[]):
 					writer.writerow({fieldnames[0]: language, fieldnames[1]: long, fieldnames[2]: lat})
 				else:
 					writer.writerow({fieldnames[0]:language})
-
-#writeLongitudeLatitude('data/Processed Geographical Info - ASJP.csv')
-#writeLongitudeLatitude('output/Geographical Longitude Latitude - ASJP.csv', languagesPhonological())
+					
+if __name__ == '__main__':	
+	writeLongitudeLatitude('data/Processed Geographical Info - ASJP.csv')
+	writeLongitudeLatitude('output/Geographical Longitude Latitude - ASJP.csv', languagesPhonological())
